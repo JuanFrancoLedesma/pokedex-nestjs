@@ -17,7 +17,6 @@ import { SeedModule } from './seed/seed.module';
 
     PokemonModule,
     SeedModule,
-
     CommonModule
   ],
 
